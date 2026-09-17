@@ -1,0 +1,6 @@
+action_id,area,issue,evidence,action,before,after,status
+A01,FAQ,연차·회의실·비밀번호 질문 반복,초기 1개월 반복 빈도가 높고 정답이 정형적,관리자 검토 후 FAQ 등록,FAQ 처리율 8.0%,FAQ 처리율 18.0%,적용
+A02,RAG,Mac VPN 질문 해결률 낮음,VPN 미해결·재질문 비율이 상대적으로 높음,Mac VPN 문서 v2 추가 및 검색대상 반영,RAG 해결률 44.4%,RAG 해결률 65.2%,적용
+A03,RAG,RAG 요청의 Input Token 과다,관련성이 낮은 문서 Chunk가 함께 검색됨,Top-K와 Chunk 범위 축소,Token/Request 1991,Token/Request 1391,적용
+A04,API,피크 시간대 429·Timeout,오류 로그와 Retry 동시 증가,최대 Retry 제한 + exponential backoff,Retry Rate 7.1%,Retry Rate 5.9%,적용
+A05,운영,모델 응답만으로 실제 해결 여부 판단 불가,초기에는 답변 생성 여부만 기록,해결 여부와 후속 행동 피드백 버튼 추가,동료 재문의율 44.0%,동료 재문의율 32.0%,적용

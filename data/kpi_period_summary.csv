@@ -1,0 +1,4 @@
+﻿period,requests,chatbot_resolution_rate,recontact_rate,peer_reask_rate,faq_hit_rate,rag_route_rate,rag_resolution_rate,direct_llm_route_rate,llm_call_rate,token_per_request,token_per_resolved_request,api_cost_per_request_krw,avg_response_seconds,p95_response_seconds,retry_rate,api_error_rate,avg_feedback_score
+initial_1m,600,30.0,38.0,44.0,8.0,12.0,44.4,72.0,84.0,1991.0,6635.0,4.24,4.84,7.75,7.1,2.4,2.74
+month2,720,37.1,33.1,38.1,13.1,18.1,54.6,60.8,78.9,1654.0,4462.0,3.47,4.1,7.04,6.0,3.0,3.06
+month3,850,45.1,28.0,32.0,18.0,24.0,65.2,50.0,74.0,1391.0,3086.0,2.95,3.56,6.42,5.9,1.0,3.25

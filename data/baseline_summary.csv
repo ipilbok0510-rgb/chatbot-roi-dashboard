@@ -1,0 +1,9 @@
+﻿metric,value
+monthly_direct_inquiries,250
+avg_search_minutes,6.7
+avg_asking_minutes,2.0
+avg_response_wait_minutes_all_sources,27.5
+avg_support_department_response_wait_minutes,41.8
+avg_support_department_answering_minutes,9.3
+resolved_rate_pct,93.6
+support_department_share_pct,48.0

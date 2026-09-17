@@ -1,0 +1,11 @@
+﻿key,value
+company_name,GaonWorks Services (가상회사)
+company_type,중소·중견 규모 IT 서비스 회사 시뮬레이션
+industry,IT 서비스 / B2B 운영 지원
+employees,300
+offices,서울 본사 + 1개 지사
+target_company_size,"약 200~1,000명 규모에서 반복 문의와 내부 문서가 많은 조직에 적합"
+main_question_domains,"IT, 인사, 총무, 재무, 사내 일반 규정"
+baseline_period,도입 전 1개월
+comparison_period,초기 운영 1개월 → 2개월차 → 3개월차
+data_notice,모든 회사/문의/성과 수치는 실제 고객사 내부 데이터가 아닌 프로젝트용 시뮬레이션
